@@ -18,22 +18,27 @@
   <a href=https://www.linkedin.com/in/cayo-alves-94602b1a8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-  "name": "Cayo Alves",
-  "description": "I'm Cayo, a skilled Vue & React developer with over 3 years of experience, proficient in Vue, React, NodeJs, TypeScript and PostgreSQL seeking a collaborative team to 	 
-  contribute my technical expertise and learn from talented colleagues.",
-  "formations": 
-  "TSI": {
+
+  <div>
+   <p> "name": "Cayo Alves",</p>
+ <p> "description": "I'm Cayo, a skilled Vue & React developer with over 3 years of experience, proficient in Vue, React, NodeJs, TypeScript and PostgreSQL seeking a collaborative team to 	 
+  contribute my technical expertise and learn from talented colleagues.",</p>
+  <p>"formations": </p>
+ <p>
+    "TSI": {
            "university": "IFPB - Instituto Federal de Ciência e Tecnologia da Paraíba",
            "course": "Internet Systems",
            "from": "2020-03",
            "to": "2024-07"   	
    },
+ </p>
   "experience": {
    "Full Cycle Developer: "4DASORTE- Lottery Web App based on cumulative random chances (Jan 2023 - Today)",
    "Mobile & Web Developer - CLUB4 Gym App (Jun 2023 - Today)",   	
    "Web Developer Nextjs - MaleAtelie (Jan 2022 - Jun 2022 )",   	
   }
 }
+  </div>
 <!---
 patocoding/patocoding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
