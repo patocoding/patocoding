@@ -19,48 +19,15 @@
 </div>
 
 
-  <div>
-    # "name": "Cayo Alves"
- <p> "description": "I'm Cayo, a skilled Vue & React developer with over 3 years of experience, proficient in Vue, React, NodeJs, TypeScript and PostgreSQL seeking a collaborative team to 	 
-  contribute my technical expertise and learn from talented colleagues.",</p>
-  <p>"formations": </p>
- <p>
-    "TSI": {
-           "university": "IFPB - Instituto Federal de Ciência e Tecnologia da Paraíba",
-           "course": "Internet Systems",
-           "from": "2020-03",
-           "to": "2024-07"   	
-   },
- </p>
-  "experience": {
-   "Full Cycle Developer: "4DASORTE- Lottery Web App based on cumulative random chances (Jan 2023 - Today)",
-   "Mobile & Web Developer - CLUB4 Gym App (Jun 2023 - Today)",   	
-   "Web Developer Nextjs - MaleAtelie (Jan 2022 - Jun 2022 )",   	
-  }
-}
-  </div>
+  # Cayo Alves
+## _Full Stack Developer_
 
-  # Pato
-## _The Last Markdown Editor, Ever_
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+## Experience
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
-Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
-AngularJS-powered HTML5 Markdown editor.
-
-- Type some Markdown on the left
-- See HTML in the right
-- ✨Magic ✨
-
-## Features
-
-- Import a HTML file and watch it magically convert to Markdown
-- Drag and drop images (requires your Dropbox account be linked)
-- Import and save files from GitHub, Dropbox, Google Drive and One Drive
-- Drag and drop markdown and HTML files into Dillinger
-- Export documents as Markdown, HTML and PDF
+- Full Cycle Developer: 4DASORTE- Lottery Web App based on cumulative random chances (Jan 2023 - Today)
+- Mobile & Web Developer - CLUB4 Gym App (Jun 2023 - Jan 2024)
+- AWS Machine Learning Internship at Compass.UOL (May 2024 - Today) 
 
 Markdown is a lightweight markup language based on the formatting conventions
 that people naturally use in email.
