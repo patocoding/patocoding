@@ -20,7 +20,7 @@
 
 
   <div>
-   <p> "name": "Cayo Alves",</p>
+   <p> ##"name": "Cayo Alves",</p>
  <p> "description": "I'm Cayo, a skilled Vue & React developer with over 3 years of experience, proficient in Vue, React, NodeJs, TypeScript and PostgreSQL seeking a collaborative team to 	 
   contribute my technical expertise and learn from talented colleagues.",</p>
   <p>"formations": </p>
