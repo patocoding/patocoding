@@ -42,6 +42,8 @@
 - [Problem Solving]
 - [Team Working]
 - [Funny Jokes (maybe)]
+- [Git & Github]
+- [Scrum, Kanban, Sprint]
 
 <!---
 patocoding/patocoding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
